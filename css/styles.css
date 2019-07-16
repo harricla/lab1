@@ -1,0 +1,47 @@
+body {
+  font-family: "open sans", sans-serif;
+  background-color: #f9fafc;
+}
+
+.org-name {
+  font-size: 12pt;
+  color: #000;
+}
+
+nav {
+  list-style-type: none;
+  color: #69696a;
+  margin: auto;
+  padding-inline-start: unset;
+  font-size: 12pt;
+  padding-bottom: 6pt;
+}
+
+a {
+  text-decoration: none;
+  color: #69696a;
+  padding-bottom: 6pt;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  font-size: 13pt;
+  border-radius: 20px;
+  width: 100%;
+  padding: 7px;
+}
+.hire-us {
+  width: 100%;
+}
+
+.scroll-down {
+  width: 100%;
+}
+
+p {
+  border-left-style: solid;
+  border-color: #69696a;
+  color: #69696a;
+  padding-left: 7px;
+}
